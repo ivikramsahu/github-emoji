@@ -1,4 +1,6 @@
-# Github Emoji :octocat:
+# Github Emoji 
+:octocat:
+----------
 
 People
 
